@@ -12,10 +12,12 @@ Styled Components
 
 Swapi
 
-Installation:
+Installation : 
 
-cd AcornsTakeHomeTest
+> git clone https://github.com/adamgymrat/AcornsTakeHomeTest.git
 
-npm install
+> cd AcornsTakeHomeTest
 
-npm start
+> npm install
+
+> npm start
