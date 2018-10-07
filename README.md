@@ -14,10 +14,10 @@ Swapi
 
 Installation : 
 
-> git clone https://github.com/adamgymrat/AcornsTakeHomeTest.git
+git clone https://github.com/adamgymrat/AcornsTakeHomeTest.git
 
-> cd AcornsTakeHomeTest
+cd AcornsTakeHomeTest
 
-> npm install
+npm install
 
-> npm start
+npm start
