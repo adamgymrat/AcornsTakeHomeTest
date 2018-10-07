@@ -10,4 +10,4 @@ Axios
 
 Styled Components
 
-Swapi API
+Swapi
