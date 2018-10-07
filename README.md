@@ -11,3 +11,11 @@ Axios
 Styled Components
 
 Swapi
+
+Installation:
+
+cd AcornsTakeHomeTest
+
+npm install
+
+npm start
